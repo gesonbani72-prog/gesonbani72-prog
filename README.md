@@ -20,4 +20,4 @@ My goal is to transform raw, complex data into clear, actionable business insigh
 *A business-oriented A/B testing and impact analysis tool. It evaluates how changes in aesthetic specifications affect supplier defect rates and component recovery, turning raw Quality Discrepancy Reports (QDRs) into an interactive KPI dashboard.*
 
 ### 📫 Let's Connect
-* **LinkedIn:** [Geson Bani](inserisci-qui-il-tuo-link-linkedin)
+* **LinkedIn:** [Geson Bani](https://www.linkedin.com/in/geson-bani-a6a28b1a0?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
