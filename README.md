@@ -13,7 +13,7 @@ My goal is to transform raw, complex data into clear, actionable business insigh
 
 ### 🚀 Featured Projects
 
-📊 **[Italian Road Accidents Dashboard (Power BI)](link-alla-tua-repo-boolean)**  
+📊 **[Italian Road Accidents Dashboard (Power BI)](https://github.com/gesonbani72-prog/Data-Analytics---Capstone-Project)**  
 *My Boolean Data Analytics final project. An interactive end-to-end dashboard analyzing road accidents in Italy, built with relational data modeling and advanced DAX measures to highlight key safety trends and metrics.*
 
 ⚙️ **Supplier Quality Impact Analysis (Excel)** *(Coming Soon)*  
