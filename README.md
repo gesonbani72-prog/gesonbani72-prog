@@ -16,6 +16,9 @@ Il mio obiettivo è trasformare dati grezzi e complessi in insight di business c
 📊 **[Dashboard Incidenti Stradali in Italia (Power BI)](https://github.com/gesonbani72-prog/Data-Analytics---Capstone-Project)**  
 *Il mio progetto finale del percorso Boolean Data Analytics. Una dashboard interattiva end-to-end che analizza gli incidenti stradali in Italia, realizzata con modellazione dei dati relazionale e misure DAX avanzate per evidenziare i principali trend e indicatori sulla sicurezza.*
 
+🦺 **[Analisi Infortuni sul Lavoro in Italia (Python)](https://github.com/gesonbani72-prog/Infortuni_per_settore_ITA)** *(In corso 🚧)*  
+*Analisi end-to-end degli infortuni sul lavoro in Italia per settore, regione e costi, a supporto di una decisione di investimento in prevenzione. Progetto incentrato sulla metodologia: acquisizione e verifica empirica di fonti pubbliche (INAIL, ISTAT, INPS) con Python e Pandas.*
+
 ⚙️ **Analisi dell'Impatto della Qualità dei Fornitori (Excel)** *(In arrivo)*  
 *Uno strumento di analisi d'impatto e A/B testing orientato al business. Valuta come le modifiche alle specifiche estetiche influiscono sui tassi di difettosità dei fornitori e sul recupero dei componenti, trasformando i Quality Discrepancy Report (QDR) grezzi in una dashboard KPI interattiva.*
 
