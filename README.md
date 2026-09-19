@@ -1,23 +1,23 @@
-# Hi there, I'm Geson 👋
+# Ciao, sono Geson 👋
 
-### Data Analyst | Quality Assurance & Supplier Management
+### Data Analyst | Quality Assurance & Gestione Fornitori
 
-I am a Data Analyst with a solid 5-year background in quality control and supplier management within the manufacturing sector. I recently graduated from the **Boolean Data Analytics** program, bridging the gap between operational field experience and advanced data manipulation. 
+Sono un Data Analyst con una solida esperienza di 5 anni nel controllo qualità e nella gestione dei fornitori nel settore manifatturiero. Ho da poco completato il percorso **Boolean Data Analytics**, unendo l'esperienza operativa sul campo alla manipolazione avanzata dei dati.
 
-My goal is to transform raw, complex data into clear, actionable business insights—whether it's optimizing supply chain defects, tracking KPIs, or building interactive dashboards for decision-makers.
+Il mio obiettivo è trasformare dati grezzi e complessi in insight di business chiari e concreti—che si tratti di ottimizzare i difetti nella catena di fornitura, monitorare i KPI o costruire dashboard interattive per chi prende le decisioni.
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Strumenti
 * **Data Visualization & BI:** Power BI, DAX, Power Query
-* **Data Manipulation & Querying:** Python (Pandas, NumPy), SQL
-* **Spreadsheet & Analytics:** Advanced Excel (Formulas, Pivot, Data Modeling)
+* **Manipolazione e Interrogazione Dati:** Python (Pandas, NumPy), SQL
+* **Fogli di Calcolo & Analisi:** Excel avanzato (Formule, Tabelle Pivot, Data Modeling)
 
-### 🚀 Featured Projects
+### 🚀 Progetti in Evidenza
 
-📊 **[Italian Road Accidents Dashboard (Power BI)](https://github.com/gesonbani72-prog/Data-Analytics---Capstone-Project)**  
-*My Boolean Data Analytics final project. An interactive end-to-end dashboard analyzing road accidents in Italy, built with relational data modeling and advanced DAX measures to highlight key safety trends and metrics.*
+📊 **[Dashboard Incidenti Stradali in Italia (Power BI)](https://github.com/gesonbani72-prog/Data-Analytics---Capstone-Project)**  
+*Il mio progetto finale del percorso Boolean Data Analytics. Una dashboard interattiva end-to-end che analizza gli incidenti stradali in Italia, realizzata con modellazione dei dati relazionale e misure DAX avanzate per evidenziare i principali trend e indicatori sulla sicurezza.*
 
-⚙️ **Supplier Quality Impact Analysis (Excel)** *(Coming Soon)*  
-*A business-oriented A/B testing and impact analysis tool. It evaluates how changes in aesthetic specifications affect supplier defect rates and component recovery, turning raw Quality Discrepancy Reports (QDRs) into an interactive KPI dashboard.*
+⚙️ **Analisi dell'Impatto della Qualità dei Fornitori (Excel)** *(In arrivo)*  
+*Uno strumento di analisi d'impatto e A/B testing orientato al business. Valuta come le modifiche alle specifiche estetiche influiscono sui tassi di difettosità dei fornitori e sul recupero dei componenti, trasformando i Quality Discrepancy Report (QDR) grezzi in una dashboard KPI interattiva.*
 
-### 📫 Let's Connect
+### 📫 Connettiamoci
 * **LinkedIn:** [Geson Bani](https://www.linkedin.com/in/geson-bani-a6a28b1a0?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
